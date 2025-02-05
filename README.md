@@ -1,7 +1,7 @@
 # Hi 👋, I'm Devyanshu Garg
 ### 🚀 About Me:
 
-- 🏗 I'm currently working on [ChatGpt Clone with APT] 
+- 🏗 I'm currently working on [ChatGpt Clone with API] 
 - 🌱 Constantly learning and exploring new technologies.  
 - 🧑‍💻 Portfolio [Portfolio](https://portfolio-b3h5.vercel.app/)  
 - 💬 Ask me about **React, PHP, Node.js, BootStrap, TailWind**  
